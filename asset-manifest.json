@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.920e7863.chunk.css",
-    "main.js": "/static/js/main.c36c58c5.chunk.js",
-    "main.js.map": "/static/js/main.c36c58c5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a2886cec.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a2886cec.js.map",
-    "static/js/2.d19dd12d.chunk.js": "/static/js/2.d19dd12d.chunk.js",
-    "static/js/2.d19dd12d.chunk.js.map": "/static/js/2.d19dd12d.chunk.js.map",
-    "static/js/3.d368814e.chunk.js": "/static/js/3.d368814e.chunk.js",
-    "static/js/3.d368814e.chunk.js.map": "/static/js/3.d368814e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.920e7863.chunk.css.map": "/static/css/main.920e7863.chunk.css.map",
-    "static/js/2.d19dd12d.chunk.js.LICENSE.txt": "/static/js/2.d19dd12d.chunk.js.LICENSE.txt"
+    "main.css": "/github-star-game/static/css/main.920e7863.chunk.css",
+    "main.js": "/github-star-game/static/js/main.c36c58c5.chunk.js",
+    "main.js.map": "/github-star-game/static/js/main.c36c58c5.chunk.js.map",
+    "runtime-main.js": "/github-star-game/static/js/runtime-main.648b8638.js",
+    "runtime-main.js.map": "/github-star-game/static/js/runtime-main.648b8638.js.map",
+    "static/js/2.d19dd12d.chunk.js": "/github-star-game/static/js/2.d19dd12d.chunk.js",
+    "static/js/2.d19dd12d.chunk.js.map": "/github-star-game/static/js/2.d19dd12d.chunk.js.map",
+    "static/js/3.d368814e.chunk.js": "/github-star-game/static/js/3.d368814e.chunk.js",
+    "static/js/3.d368814e.chunk.js.map": "/github-star-game/static/js/3.d368814e.chunk.js.map",
+    "index.html": "/github-star-game/index.html",
+    "static/css/main.920e7863.chunk.css.map": "/github-star-game/static/css/main.920e7863.chunk.css.map",
+    "static/js/2.d19dd12d.chunk.js.LICENSE.txt": "/github-star-game/static/js/2.d19dd12d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2886cec.js",
+    "static/js/runtime-main.648b8638.js",
     "static/js/2.d19dd12d.chunk.js",
     "static/css/main.920e7863.chunk.css",
     "static/js/main.c36c58c5.chunk.js"
